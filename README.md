@@ -1,0 +1,1 @@
+This project is a native udp socket wrapper for (Unity/Godot/.NET), based on NanoSockets: https://github.com/nxrighthere/NanoSockets
