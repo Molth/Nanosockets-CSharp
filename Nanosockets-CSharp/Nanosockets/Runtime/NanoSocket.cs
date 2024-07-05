@@ -7,6 +7,8 @@ using System.Runtime.InteropServices;
 #pragma warning disable CA1816
 #pragma warning disable CS8602
 
+// ReSharper disable PossibleNullReferenceException
+
 namespace NanoSockets
 {
     /// <summary>
